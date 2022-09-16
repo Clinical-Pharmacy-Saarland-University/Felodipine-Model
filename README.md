@@ -10,7 +10,7 @@ For further details, quantitative model evaluation and extensive documentation p
 PK-Sim Version 9.1.
 
 # License
-The model is distributed under the GPLv2 Lincense.
+The model is distributed under the GPLv2 License.
 
 # Reference
 [[1] Fuhr, L.M.; Marok, F.Z.; Mees, M.; Mahfoud, F.; Selzer, D.; Lehr, T. A Physiologically Based Pharmacokinetic and Pharmacodynamic Model of the CYP3A4 Substrate Felodipine for Drug–Drug Interaction Modeling. Pharmaceutics 2022, 14, 1474.](https://doi.org/10.3390/pharmaceutics14071474)
